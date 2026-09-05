@@ -2,3 +2,5 @@
 Week 1.1 Friday Assignment Bis
 
 ## Subteam A
+
+Substact: it works with two parameters, a and b, and make the substraction of b to a.
